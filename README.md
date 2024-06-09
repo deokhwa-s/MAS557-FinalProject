@@ -1,17 +1,17 @@
-Raw data: "Nsd_%.1e-Nch_%.1e-Lch_%d.dat"
-1st column: Vd 
-2nd column: Id
-Next 501 columns: potential profile
-Next 501 columns: charge profile
+Raw data: "Nsd_%.1e-Nch_%.1e-Lch_%d.dat"<br/>
+1st column: Vd<br/>
+2nd column: Id<br/>
+Next 501 columns: potential profile<br/>
+Next 501 columns: charge profile<br/>
 
 
-Raw data combined: "DD_full_data_Lsd_20.dat"
-1st column: Nsd
-2nd column: Nch
-3rd column: Lch
-4th column: Vd
-5th column: Id
+Raw data combined: "DD_full_data_Lsd_20.dat"<br/>
+1st column: Nsd<br/>
+2nd column: Nch<br/>
+3rd column: Lch<br/>
+4th column: Vd<br/>
+5th column: Id<br/>
 
 
-Next 501 columns: potential profile
-Next 501 columns: charge profile
+Next 501 columns: potential profile<br/>
+Next 501 columns: charge profile<br/>
